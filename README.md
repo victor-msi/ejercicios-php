@@ -1,3 +1,4 @@
+#ejercicios-php
 <?php
 //declarar un entero n, calcular la suma de los n primeros numeros impares
 $numero = 10;
